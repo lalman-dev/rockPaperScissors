@@ -2,8 +2,11 @@
 
 A simple yet stylish Rock Paper Scissors game built using **HTML**, **CSS**, and **JavaScript**. This is my first GitHub project—crafted with care, curiosity, and a touch of playful logic.
 
-## 🔗 Live Demo
-[Click here to play the game](https://github.com/lalman-dv/rockPaperScissors/)  
+## 🚀 Live Demo
+
+[![Netlify Status](https://img.shields.io/badge/Play%20the%20Game-Live%20Demo-brightgreen)](https://splendorous-peony-6b9a67.netlify.app/)
+
+**Play the game here:** https://splendorous-peony-6b9a67.netlify.app/ 
 
 
 ---
@@ -11,7 +14,7 @@ A simple yet stylish Rock Paper Scissors game built using **HTML**, **CSS**, and
 ## 📦 Features
 
 - 🎮 Interactive gameplay with score tracking
-- 🤖 Random computer moves
+- 🤖 AI makes random choice each round. 
 - 🧠 Clean UI with intuitive icons
 - 📱 Responsive design for mobile and desktop
 
