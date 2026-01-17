@@ -4,9 +4,9 @@ A simple yet stylish Rock Paper Scissors game built using **HTML**, **CSS**, and
 
 ## 🚀 Live Demo
 
-[![Netlify Status](https://img.shields.io/badge/Play%20the%20Game-Live%20Demo-brightgreen)](https://splendorous-peony-6b9a67.netlify.app/)
+[![Netlify Status](https://rock-paper-scissor-js-gamee.netlify.app)
 
-**Play the game here:** https://splendorous-peony-6b9a67.netlify.app/ 
+**Play the game here:** (https://rock-paper-scissor-js-gamee.netlify.app)
 
 
 ---
