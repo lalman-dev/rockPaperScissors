@@ -5,7 +5,7 @@ A simple yet stylish Rock Paper Scissors game built using **HTML**, **CSS**, and
 ## 🚀 Live Demo
 
 
-[**Play the game here:**](https://rock-paper-scissor-js-gamee.netlify.app)
+**Play the game here:** [Rock,Paper,Scissor](https://rock-paper-scissor-js-gamee.netlify.app)
 
 
 ---
